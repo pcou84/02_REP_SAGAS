@@ -1,8 +1,11 @@
-1	Harry Potter y la piedra filosofal
-2	Harry Potter y la cámara secreta
-3	Harry Potter y el prisionero de Azkaban
-4	
-5	
-6	
-7	
-8	
+'Harry Potter y la piedra filosofal' (2001)
+'Harry Potter y la cámara secreta' (2002)
+'Harry Potter y el prisionero de Azkaban' (2004)
+'Harry Potter y el cáliz de fuego' (2005)
+'Harry Potter y la Orden del Fénix' (2007)
+'Harry Potter y el misterio del príncipe' (2009)
+'Harry Potter y las Reliquias de la Muerte: Parte 1' (2010)
+'Harry Potter y las Reliquias de la Muerte: Parte 2' (2011)
+'Animales Fantásticos y dónde encontrarlos' (2016)
+'Animales Fantásticos: los crímenes de Grindelwald' (2018)
+'Animales Fantásticos: los secretos de Dumbledore' (2022)
